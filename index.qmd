@@ -1,0 +1,31 @@
+---
+title: |
+  How to fit an animal model
+subtitle: WAM tutorial
+
+#include-in-header:
+#  text: |
+#    <meta http-equiv="refresh" content="0; URL=./en/index.html">
+#    <link rel="canonical" href="./en/index.html">
+format:
+  html:
+    toc: false
+    embed-resources: true
+---
+<style>
+.quarto-title-block .quarto-title{
+  text-align: center;
+}
+</style>
+
+[![](book_wam_hex.png){fig-align=center}](https://wam-tutorial.github.io/en/)
+
+
+Welcome to the multilingual book on how to fit an animal model
+
+- {{< bi flag >}} [English](https://wam-tutorial.github.io/en/)
+- {{< bi flag >}} [Français](https://wam-tutorial.github.io/fr/)
+<!-- - {{< bi icon flag >}} [Español](https://wam-tutorial.github.io/es/)-->
+
+
+
